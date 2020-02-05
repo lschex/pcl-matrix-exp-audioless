@@ -1,0 +1,25 @@
+itemnum,anim1,inan1,anim2,inan2,anim3,inan3,anim4,inan4,anim5,inan5,phrase,expected
+1,glasses_med,ladder_med,bathtub_med,man,rabbit,cherries_med,man,cheese_med,sandwich_med,goat,glasses,anim1
+2,chicken,backpack_small,chicken,fork_big,frog,box_big,violin,backpack_med,fish_med,truck_small,chicken with the backpack,anim1
+3,goat,ladder_med,goat,pan_med,pineapple,pumpkin_med,pineapple,banana,grapes_med,cooler_med,[**] with the ladder,anim1
+4,bottle_small,chicken,bottle_big,pig,pot_big,goat,pot_small,chessboard,book_med,elephant,smaller [**] with the chicken,anim1
+5,truck_big,car_med,truck_small,pail_med,can_big,banana,can_small,train_med,zebra,eggplant,big [**] with the car,anim1
+6,cheese_big,elephant,cheese_small,zebra,frog,cup_med,frog,pencil_med,chicken,lizard_med,bigger cheese,anim1
+7,table_big,couch_med,table_small,fan_med,bear,eggplant,fish_med,briefcase_med,train_med,can_med,big table,anim1
+8,tower_big,trafficlight_med,tower_small,glasses_med,elephant,trafficlight_small,elephant,can_med,bird,fan_med,tower with the trafficlight,anim1
+9,pitcher_big,train_med,pitcher_small,dog_med,ladder_big,train_med,ladder_small,dog_med,man,pig,taller pitcher with the [**],anim1
+10,policewoman,man,policewoman,sock_small,rabbit,truck_med,frog,car_med,pig,girl,tall [**] with the man,anim1
+11,girl,bus_med,cat,cup_med,rabbit,box_big,rabbit,box_small,frog,bag_med,girl,anim1
+12,short_woman,violin,policewoman,sandwich_med,pumpkin_med,pillow_med,zebra,briefcase_med,zebra,pitcher_med,short woman,anim1
+13,pencil_small,ball_med,pencil_big,cheese_med,man,ball_med,man,cheese_big,short_woman,chair_med,short pencil with the [**],anim1
+14,dog_med,lamp_small,dog_med,flower_small,mouse,lamp_big,zebra,bus_med,cat,flower_big,dog with the lamp,anim1
+15,pitcher_small,flower_med,pitcher_big,banana,policewoman,bottle_med,short_woman,elephant,bear,backpack_med,short [**] with the flower,anim1
+16,car_med,book_med,girl,truck_big,girl,pillow_big,policewoman,fan_big,elephant,box_big,car,anim1
+17,tree_big,banana,tree_small,pineapple,cherries_med,policewoman,fork_med,car_med,fishbowl,goat,taller tree,anim1
+18,building_med,sandwich_med,building_med,pillow_med,horse,sock_med,horse,ball_med,truck_med,cabinet_med,[**] with the sandwich,anim1
+19,car_med,trafficlight_med,car_med,glue_med,dog_med,chicken,dog_med,bag_med,pan_med,pail_med,[**] with the trafficlight,anim1
+20,pumpkin_big,basket_med,pumpkin_small,chessboard,pinecone_med,frog,pinecone_med,couch_med,elephant,bus_med,[**] with the basket,anim1
+21,flower_small,cookie_med,flower_big,carrot_med,chessboard,book_med,cherries_med,mouse,fishbowl,pineapple,shorter flower,anim1
+22,bird,paintbrush_med,goat,paintbrush_big,boy,ladder_med,horse,cup_med,pig,fishbowl,bird,anim1
+23,cat,bottle_small,cat,bathtub_med,boy,bottle_med,girl,bag_med,dog_med,cooler_med,cat with the shorter bottle,anim1
+24,man,horse,tall_man,tree_med,short_woman,bear,policewoman,ball_med,pumpkin_med,train_med,shorter [**] with the horse,anim1

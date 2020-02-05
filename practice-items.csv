@@ -1,0 +1,4 @@
+number,itemref,type,phrase,image1,image2,image3,image4,image5,image6,image7,image8,image9,image10
+1,1,*bleep* P the N1,Click on the red square,pl-r-square,pl-y-square,pl-g-circle,stripe-y-triangle,dot-b-triangle,pl-b-circle,pl-y-square,pl-b-circle,pl-bl-diamond,stripe-y-triangle
+2,2,*bleep* P the N1,Click on the circle with the striped triangle,pl-b-circle,stripe-y-triangle,dot-b-triangle,stripe-g-square,pl-y-square,pl-b-circle,pl-r-square,pl-bl-diamond,pl-r-circle,pl-b-circle
+3,3,*bleep* P the N1,Click on the [**] with the green square,pl-r-circle,stripe-g-square,dot-b-triangle,pl-bl-diamond,pl-g-circle,stripe-b-square,pl-g-circle,pl-bl-diamond,pl-b-circle,pl-y-square
